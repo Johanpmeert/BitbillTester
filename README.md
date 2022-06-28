@@ -7,6 +7,7 @@ If the API no longer works or somehow limits the number of searches, you can eas
 
 Output in 6/2022 shows:
 
+```
 Bitbill tester:
 Total bitbills=928
 1BTC=589, 5BTC=144, 10BTC=107, 20BTC=88
@@ -18,3 +19,4 @@ Bitbill 1 BTC: total=589, untouched=320
 Bitbill 5 BTC: total=144, untouched=51
 Bitbill 10 BTC: total=107, untouched=31
 Bitbill 20 BTC: total=88, untouched=37
+```
